@@ -1,0 +1,99 @@
+
+@media screen and (max-width: 1200px) {
+    #desktop-nav {
+        display: none;
+    }
+    #dropdown-nav {
+        display: flex;
+    }
+    #experience {
+        margin-top: 2rem;
+    }
+    .arrow {
+        display: none;
+    }
+}
+@media screen and (max-width: 1400px) {
+    #profile {
+        height: fit-content;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+   #about-container {
+   justify-content: center;
+    width: 100%;
+    height: fit-content;
+    flex-wrap: wrap;
+    height: fit-content;
+   }
+   #experience {
+    margin-top: 25rem;
+   }
+    
+}
+@media screen and (max-width: 1000px) {
+    #profile {
+        height: fit-content;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+   #about-container {
+   justify-content: center;
+    width: 100%;
+    height: fit-content;
+    flex-wrap: wrap;
+    height: fit-content;
+   }
+   #experience {
+    margin-top: 35rem;
+    flex-wrap: wrap;
+   }
+   #about-pic {
+     overflow: hidden;
+     width: 40vh;
+   }
+   #about-me {
+    text-align: start
+   }
+   #work-stack {
+    flex-wrap: wrap;
+   }
+   
+   .nav-links-container {
+    display: none;
+   }
+   
+   #contact {
+    flex-wrap: wrap;
+    
+    text-align: center;
+   }
+   #contact-info-upper-container {
+    width: fit-content;
+    flex-wrap: wrap;
+    font-size: 1rem;
+   }
+   .project img{
+    width: 35vh;
+   }
+   
+   #copyright {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 10px;
+   }
+   #about {
+    flex-wrap: nowrap;
+    text-align: center;
+   }
+section {
+    margin: 0 5%
+}
+#title-projects {
+  margin-top: 5.5rem;
+}
+}
+
+
+
