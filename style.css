@@ -383,3 +383,8 @@ footer p{
 #experience {
     position: relative;
 }
+
+.dark-mode {
+    background-color: rgb(44, 43, 46);
+    color: white;
+  }
