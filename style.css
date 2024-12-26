@@ -297,7 +297,7 @@ section {
     width: auto;
     height: 5rem;
 }
-#work-stack {
+.work-stack {
     display: flex;
     gap: 4rem;
     justify-content: center;

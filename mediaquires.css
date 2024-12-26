@@ -55,7 +55,7 @@
    #about-me {
     text-align: start
    }
-   #work-stack {
+   .work-stack {
     flex-wrap: wrap;
    }
    
